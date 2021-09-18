@@ -8,7 +8,7 @@
 
 > :bangbang: Hoje a maioridade dos profissionais em TI são homens brancos, cis e héteros. Quando esse número mudar e a área de tecnologia se tornar verdadeiramente diversa, pararemos de postar esse tipo de vaga.
 
-4. É proibido mandar **mensagem no privado** para as pessoas, a não ser que a pessoa autorize. Isso causa um desconforto muito grande na pessoa e a punição é banimento imediato.
+4. É proibido mandar **mensagem no privado** para as pessoas, a não ser que a pessoa autorize. Isso causa um desconforto muito grande na pessoa e a punição é um aviso. No próximo aviso, a pessoa será banida.
 
 ## Denunciando desrepeito as regras
 
