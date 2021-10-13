@@ -19,6 +19,6 @@
 
 ---
 
-## Denunciando desrepeito as regras
+## Denunciando desrespeito as regras
 
 Para denunciar, marque **@admin** no post a ser denunciado, fale com **@SAC_CafeinaBot** no Telegram ou envie um e-mail para **contato@compiladoras.com.br**
