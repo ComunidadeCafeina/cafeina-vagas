@@ -33,9 +33,7 @@ Você pode ajudar outras pessoas também compartilhando vagas pelo nosso bot ([@
 
 3. **"Por que vocês postam vagas inclusivas?"** R: Hoje a maioridade dos profissionais em TI são homens brancos, cis e héteros. Nosso objetivo é que a área de tecnologia se torne verdadeiramente diversa e que todos se sintam acolhidos, representados e livres para ingressar na área.
 
-4. **"Fui banido injustamente, o que eu faço?"** R: Geralmente quando banimos pessoas do grupo a grande maioria é porque violaram a regra 3, juntamente com a regra 2 do grupo. Lembramos que nosso grupo acredita em programas de inclusão e não queremos debates sobre isso, pois perturbam a paz do grupo de forma desnecessária.
-
-> O ban não tem retorno. Uma vez banido, **é banido para sempre.**
+4. **"Fui banido injustamente, o que eu faço?"** R: Não mande mensagem no privado para algum ADM, envie sua reclamação para o *@SAC_CafeinaBot*. Iremos reavaliar seu caso e se acreditarmos que alguma regra não foi inflingida, iremos remover o ban.
 
 ---
 
