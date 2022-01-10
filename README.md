@@ -13,13 +13,15 @@ Você pode ajudar outras pessoas também compartilhando vagas pelo nosso bot ([@
 
 ### :memo: Código de conduta 
 
-1. Nós não toleramos nenhum tipo de preconceito, seja ele de raça, gênero, orientação sexual, religioso, ou qualquer outro. 
+1. Nós não toleramos nenhum tipo de preconceito, seja ele de raça, gênero, orientação sexual, religioso, ou qualquer outro. | *Punição: `ban`*
 
-2. Seja gentil. Evite discussões que perturbem a paz do grupo e temas polêmicos como religião e política. 
+2. **Seja gentil sempre.** Evite discussões que perturbem a paz do grupo e temas sensíveis como religião e política. Não é proibido conversar sobre assuntos diferentes no grupo, desde que não causem desavenças desnecessárias.  | *Punição: `silêncio (a definir)` | Segundo aviso: `ban`*
 
-3. Somos um grupo movido por questões sociais como inclusão de mulheres, pessoas trans, negras, LGBTQIA+ e outros grupos minoritários na TI. **Causar discussão sobre vagas inclusivas para qualquer grupo minoritário causa banimento imediato.**
+3. Somos um grupo movido por questões sociais como inclusão de mulheres, pessoas trans, negras, LGBTQIA+ e outros grupos minoritários na TI. **Não cause discussão sobre vagas inclusivas.** | *Punição: `ban`*
 
-4. É proibido mandar **mensagem no privado** para as pessoas, a não ser que a pessoa autorize.
+4. É proibido mandar **mensagem no privado** para as pessoas, a não ser que a pessoa autorize.  | *Punição: `ban`*
+
+5. Evite falar palavrões e palavras de baixo calão. Adicionamos essa regra como medida de prevenção em caso de ataques, pedimos desculpas pelo incoveniente.  | *Punição: `silêncio (8h)`*
 
 ---
 
