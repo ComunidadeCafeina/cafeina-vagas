@@ -23,6 +23,8 @@ Você pode ajudar outras pessoas também compartilhando vagas pelo nosso bot ([@
 
 5. Evite falar palavrões e palavras de baixo calão. Adicionamos essa regra como medida de prevenção em caso de ataques, pedimos desculpas pelo incoveniente. | :bomb: *Punição: `silêncio (8h)`*
 
+6. Não envie vagas no canal. Para manter a organização das vagas e o nível de qualidade, sempre envie as vagas para @ChatCafeinaVagas. | :bomb: *Punição: `silêncio (8h)`*
+
 ---
 
 ### :bangbang: Perguntas frequentes
