@@ -1,44 +1,53 @@
+# Sobre
+
 <p align="center">
   <img src="logo-cafeina-vagas.jpg" width="150">
 </p>
 
-### :coffee: Sobre
-Somos uma comunidade de pessoas **voluntárias** que compartilham vagas pelo nosso canal do Telegram ([@CafeinaVagas](https://t.me/CafeinaVagas)). Nós não temos vínculo com nenhuma empresa compartilhada no canal e não recebemos nada pelo nosso trabalho.
+Somos uma comunidade cujo objetivo é acolher pessoas iniciantes na área de tecnologia, com foco na inclusão de grupos minoritários.
 
-Inicialmente fazíamos parte da comunidade [Compiladoras de Cafeína](https://www.instagram.com/compiladoras/), mas decidimos expandir e liberar o grupo no formato público! Hoje somos uma comunidade totalmente independente, mas ainda com as mesmas raízes: incentivamos a **diversidade** e equidade na área de tecnologia.
+O canal Cafeína Vagas ([@CafeinaVagas](https://t.me/CafeinaVagas)) e o grupo de chat Cafeína Help ([@CafeinaVagasChat](https://t.me/CafeinaVagasChat)) é mantido por voluntários. Não recebemos nada pelo nosso trabalho e não somos associados a nenhuma empresa. 
 
-Você pode ajudar outras pessoas também compartilhando vagas pelo nosso bot ([@SAC_CafeinaBot](https://t.me/SAC_CafeinaBot)) e apoiando outras pessoas do grupo, compartilhando suas experiências e as incentivando. :hearts:
+As vagas postadas não são respondidas por nós, a não ser as vagas de edital para novos voluntários em nossos projetos.
 
----
+## ☕ Como ajudar?
 
-### :memo: Código de conduta 
+Você pode ajudar a comunidade compartilhando vagas para iniciantes e conteúdos gratuitos no [@CafeinaVagasBot](https://t.me/CafeinaVagasBot); respondendo dúvidas e compartilhando suas experiências no [@CafeinaVagasChat](https://t.me/CafeinaVagasChat) e também apoiando nossa causa ao doar qualquer quantia no nosso PIX: compiladoras@gmail.com
 
-1. Nós não toleramos nenhum tipo de preconceito, seja ele de raça, gênero, orientação sexual, religioso, ou qualquer outro. | :bomb: *Punição: `ban`*
+## ‼️ Legenda
 
-2. **Seja gentil sempre.** Evite discussões que perturbem a paz do grupo e temas sensíveis como religião e política. Não é proibido conversar sobre assuntos diferentes no grupo, desde que não causem desavenças desnecessárias.  | :bomb: *Punição: `silêncio (a definir)` | Segundo aviso: `ban`*
+|Símbolo | Punição |
+|--------|---------|
+| 🟡 | Silêncio (mínimo 8h) |
+| 🔴 | Banimento |
+| 🟡🔴 | Silêncio (primeiro aviso), banimento caso ocorra novamente |
 
-3. Somos um grupo movido por questões sociais como inclusão de mulheres, pessoas trans, negras, LGBTQIA+ e outros grupos minoritários na TI. **Não cause discussão sobre vagas inclusivas.** | :bomb: *Punição: `ban`*
+## 🛡️ Código de conduta
 
-4. É proibido mandar **mensagem no privado** para as pessoas, a não ser que a pessoa autorize. | :bomb: *Punição: `ban`*
+1. Nós não toleramos nenhum tipo de discriminação, seja de raça, gênero, religião, etc. 🔴
 
-5. Evite falar palavrões e palavras de baixo calão. Adicionamos essa regra como medida de prevenção em caso de ataques, pedimos desculpas pelo incoveniente. | :bomb: *Punição: `silêncio (8h)`*
+2. **Seja gentil sempre!** Evite discussões que perturbem a paz do grupo e temas sensíveis como religião e política. 🟡🔴
 
-6. Não envie vagas ou cursos aleatórios no grupo. Para manter a organização e o nível de qualidade, sempre vagas e cursos para @CafeinaVagasBot para que sejam avaliadas. Tudo é avaliado, ***não cobrem os adms***. | :bomb: *Punição: `silêncio (8h)`*
+3. Não faça uma reclamação sobre uma vaga por ela ser inclusiva (vagas inclusivas são vagas direcionadas a grupos minoritários em TI). 🔴
 
----
+4. É proibido mandar **mensagem no privado** para as pessoas, exceto se a pessoa autorizar. 🔴
 
-### :bangbang: Perguntas frequentes
+## 📝 Regras de publicação 
 
-1. **"O que são vagas inclusivas?"** R: São vagas que promovem a maior participação e incentivam o interesse de grupos minoritários (como mulheres, pessoas negras, pessoas periféricas, pessoas com mais de 50 anos, etc) no ingresso em TI.
+1. Não envie vagas no grupo. Envie as vagas no [@CafeinaVagasBot](https://t.me/CafeinaVagasBot) para serem avaliadas. Se estiver na proposta do canal, a vaga será postada. PS: Apenas vagas sem experiência. 🟡🔴
 
-2. **"Posso falar o que acho sobre vagas inclusivas?"** R: Este NÃO é um grupo para compartilhar sua opinião sobre vagas inclusivas.
+2. Cursos e conteúdos podem ser enviados no chat caso solicitado por um membro da comunidade. Se conhece um conteúdo bacana, compartilhe no bot [@CafeinaVagasBot](https://t.me/CafeinaVagasBot). 🟡
 
-3. **"Por que vocês postam vagas inclusivas?"** R: Hoje a maioridade dos profissionais em TI são homens brancos, cis e héteros. Nosso objetivo é que a área de tecnologia se torne verdadeiramente diversa e que todos se sintam acolhidos, representados e livres para ingressar na área.
+3. Evite falar palavrões e termos pejorativos. Nosso bot tem filtro elevado para nos proteger de bots e outros tipos de ataques. 🟡
 
-4. **"Fui banido injustamente, o que eu faço?"** R: Não mande mensagem no privado para algum ADM, envie sua reclamação para o *@SAC_CafeinaBot*. Iremos reavaliar seu caso e se acreditarmos que alguma regra não foi inflingida, iremos remover o ban.
+4. Conteúdos pagos, vendas, vaquinhas e links de afiliados são proibidos. 🟡🔴
 
----
+5. Imagens e conteúdos graficamente chocantes, seja em gifs ou até mesmo no nick/foto do perfil não são permitidos. 🔴
 
-### :loudspeaker: Denunciando desrespeito as regras
+## 📢 Denunciando desrespeito as regras
 
-Para denunciar, marque **@admin** no post a ser denunciado, fale com **@SAC_CafeinaBot** no Telegram ou envie um e-mail para **contato@compiladoras.com.br**
+Para denunciar, marque **@admin** no post a ser denunciado ou entre em contato com os canais abaixo.
+
+## ☎️ Contato e parcerias 
+
+Para entrar em contato conosco ou fazer parcerias, fale com [@SAC_CafeinaBot](https://t.me/SAC_CafeinaBot) no Telegram ou envie um e-mail para contato@compiladoras.com.br
