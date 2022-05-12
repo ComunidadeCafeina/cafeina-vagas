@@ -1,7 +1,7 @@
 # Sobre
 
 <p align="center">
-  <img src="logo-cafeina-vagas.jpg" width="150">
+  <img src="71A15745-F6D5-4B63-B538-556CFCE7DC24.png" width="100%">
 </p>
 
 Somos uma comunidade cujo objetivo é acolher pessoas iniciantes na área de tecnologia, com foco na inclusão de grupos minoritários.
