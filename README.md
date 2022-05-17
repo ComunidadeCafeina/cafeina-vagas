@@ -34,15 +34,15 @@ Você pode ajudar a comunidade compartilhando vagas para iniciantes e conteúdos
 
 ## 📝 Regras de publicação 
 
-1. Não envie vagas no grupo. Envie as vagas no [@CafeinaVagasBot](https://t.me/CafeinaVagasBot) para serem avaliadas. Se estiver na proposta do canal, a vaga será postada. PS: Apenas vagas sem experiência. 🟡🔴
+5. Não envie vagas no grupo. Envie as vagas no [@CafeinaVagasBot](https://t.me/CafeinaVagasBot) para serem avaliadas. Se estiver na proposta do canal, a vaga será postada. PS: Apenas vagas sem experiência. 🟡🔴
 
-2. Cursos e conteúdos podem ser enviados no chat caso solicitado por um membro da comunidade. Se conhece um conteúdo bacana, compartilhe no bot [@CafeinaVagasBot](https://t.me/CafeinaVagasBot). 🟡
+6. Cursos e conteúdos podem ser enviados no chat caso solicitado por um membro da comunidade. Se conhece um conteúdo bacana, compartilhe no bot [@CafeinaVagasBot](https://t.me/CafeinaVagasBot). 🟡
 
-3. Evite falar palavrões e termos pejorativos. Nosso bot tem filtro elevado para nos proteger de bots e outros tipos de ataques. 🟡
+7. Evite falar palavrões e termos pejorativos. Nosso bot tem filtro elevado para nos proteger de bots e outros tipos de ataques. 🟡
 
-4. Conteúdos pagos, vendas, vaquinhas e links de afiliados são proibidos. 🟡🔴
+8. Conteúdos pagos, vendas, vaquinhas e links de afiliados são proibidos. 🟡🔴
 
-5. Imagens e conteúdos graficamente chocantes, seja em gifs ou até mesmo no nick/foto do perfil não são permitidos. 🔴
+9. Imagens e conteúdos graficamente chocantes, seja em gifs ou até mesmo no nick/foto do perfil não são permitidos. 🔴
 
 ## 📢 Denunciando desrespeito as regras
 
