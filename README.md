@@ -44,6 +44,8 @@ Você pode ajudar a comunidade compartilhando vagas para iniciantes e conteúdos
 
 9. Imagens e conteúdos graficamente chocantes, seja em gifs ou até mesmo no nick/foto do perfil não são permitidos. 🔴
 
+10. Não plagie nosso conteúdo e/ou faça copia e cola, compartilhe o post para que o link do canal fique atrelado a postagem. 🔴
+
 ## 📢 Denunciando desrespeito as regras
 
 Para denunciar, marque **@admin** no post a ser denunciado ou entre em contato com os canais abaixo.
