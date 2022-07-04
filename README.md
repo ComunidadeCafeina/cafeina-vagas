@@ -30,21 +30,18 @@ Você pode ajudar a comunidade compartilhando vagas para iniciantes e conteúdos
 
 3. Não faça uma reclamação sobre uma vaga por ela ser inclusiva (vagas inclusivas são vagas direcionadas a grupos minoritários em TI). 🔴
 
-4. É proibido mandar **mensagem no privado** para as pessoas, exceto se a pessoa autorizar. 🔴
+4. Peça permissão antes de mandar **mensagem no privado**. 🔴
 
 ## 📝 Regras de publicação 
 
-5. Não envie vagas no grupo. Envie as vagas no [@CafeinaVagasBot](https://t.me/CafeinaVagasBot) para serem avaliadas. Se estiver na proposta do canal, a vaga será postada. PS: Apenas vagas sem experiência. 🟡🔴
+5. Nosso bot bloqueia todos os links. 🟡
+> Compartilhe vagas, cursos e conteúdos no bot [@CafeinaVagasBot](https://t.me/CafeinaVagasBot). 
 
-6. Cursos e conteúdos podem ser enviados no chat caso solicitado por um membro da comunidade. Se conhece um conteúdo bacana, compartilhe no bot [@CafeinaVagasBot](https://t.me/CafeinaVagasBot). 🟡
+6. Nosso bot bloqueia palavrões. 🟡
 
-7. Evite falar palavrões e termos pejorativos. Nosso bot tem filtro elevado para nos proteger de bots e outros tipos de ataques. 🟡
+7. Imagens e conteúdos graficamente chocantes, seja em gifs ou até mesmo no nick/foto do perfil não são permitidos. 🔴
 
-8. Conteúdos pagos, vendas, vaquinhas e links de afiliados são proibidos. 🟡🔴
-
-9. Imagens e conteúdos graficamente chocantes, seja em gifs ou até mesmo no nick/foto do perfil não são permitidos. 🔴
-
-10. Não plagie nosso conteúdo e/ou faça copia e cola, compartilhe o post para que o link do canal fique atrelado a postagem. 🔴
+8. Mantenha os créditos caso compartilhe nosso conteúdo. 🔴
 
 ## 📢 Denunciando desrespeito as regras
 
