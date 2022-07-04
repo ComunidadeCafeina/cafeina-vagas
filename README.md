@@ -21,6 +21,7 @@ Você pode ajudar a comunidade compartilhando vagas para iniciantes e conteúdos
 | 🟡 | Silêncio (mínimo 8h) |
 | 🔴 | Banimento |
 | 🟡🔴 | Silêncio (primeiro aviso), banimento caso ocorra novamente |
+| 🟣 | Advertência, com 3 advertências ban |
 
 ## 🛡️ Código de conduta
 
@@ -34,7 +35,7 @@ Você pode ajudar a comunidade compartilhando vagas para iniciantes e conteúdos
 
 ## 📝 Regras de publicação 
 
-5. Nosso bot bloqueia todos os links. 🟡
+5. Nosso bot bloqueia todos os links. 🟣
 > Compartilhe vagas, cursos e conteúdos no bot [@CafeinaVagasBot](https://t.me/CafeinaVagasBot). 
 
 6. Nosso bot bloqueia palavrões. 🟡
