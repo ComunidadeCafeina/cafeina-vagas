@@ -35,8 +35,8 @@ Você pode ajudar a comunidade compartilhando vagas para iniciantes e conteúdos
 
 ## 📝 Regras de publicação 
 
-5. Nosso bot bloqueia todos os links. 🟣
-> Compartilhe vagas, cursos e conteúdos no bot [@CafeinaVagasBot](https://t.me/CafeinaVagasBot). 
+5. Proibido links e qualquer tipo de promoções. 🟣
+> Compartilhe vagas para **iniciantes**, cursos e conteúdos **gratuítos** no bot [@CafeinaVagasBot](https://t.me/CafeinaVagasBot). 
 
 6. Nosso bot bloqueia palavrões. 🟡
 
