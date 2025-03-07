@@ -12,37 +12,36 @@ As vagas postadas não são respondidas por nós, a não ser as vagas de edital 
 
 ## ☕ Como ajudar?
 
-Você pode ajudar a comunidade compartilhando vagas para iniciantes e conteúdos gratuitos no [@CafeinaVagasBot](https://t.me/CafeinaVagasBot); respondendo dúvidas e compartilhando suas experiências no [@CafeinaVagasChat](https://t.me/CafeinaVagasChat) e também apoiando nossa causa ao doar qualquer quantia no nosso PIX: compiladoras@gmail.com
+Você pode ajudar a comunidade compartilhando vagas para iniciantes e conteúdos gratuitos no [@CafeinaVagasBot](https://t.me/CafeinaVagasBot); respondendo dúvidas e compartilhando suas experiências no [@CafeinaVagasChat](https://t.me/CafeinaVagasChat).
 
-## ‼️ Legenda
+## ‼️ Legenda de ações disciplinares
 
-|Símbolo | Punição |
+|Símbolo | Ações disciplinares |
 |--------|---------|
-| 🟡 | Silêncio (mínimo 8h) |
-| 🔴 | Banimento |
-| 🟡🔴 | Silêncio (primeiro aviso), banimento caso ocorra novamente |
-| 🟣 | Advertência, com 3 advertências ban |
+| 🟡 | Silênciar |
+| 🔴 | Banimento imediato |
+| 🟣 | Advertência (3 advertências = banimento) |
 
 ## 🛡️ Código de conduta
 
-1. Nós não toleramos nenhum tipo de discriminação, seja de raça, gênero, religião, etc. 🔴
+1. Não toleramos discriminação de qualquer tipo (raça, gênero, religião, etc). 🔴
 
-2. **Seja gentil sempre!** Evite discussões que perturbem a paz do grupo e temas sensíveis como religião e política. 🟡🔴
+2. Proibido discussões sobre temas polêmicos. Digite #polemicos no chat para ler mais. 🟣
 
-3. Não faça uma reclamação sobre uma vaga por ela ser inclusiva (vagas inclusivas são vagas direcionadas a grupos minoritários em TI). 🔴
+3. Não critique ou questione vagas inclusivas (direcionadas a grupos minoritários em TI). 🔴
 
-4. Peça permissão antes de mandar **mensagem no privado**. 🔴
+4. Antes de chamar alguém no privado, peça permissão. 🔴
 
 ## 📝 Regras de publicação 
 
-5. Proibido links e qualquer tipo de promoções. 🟣
-> Compartilhe vagas para **iniciantes**, cursos e conteúdos **gratuítos** no bot [@CafeinaVagasBot](https://t.me/CafeinaVagasBot). 
+5.Proibido compartilhar links, vagas ou se autopromover no chat. 🟣
+> Somente vagas, cursos e conteúdos 100% **gratuitos** podem ser enviados para [@CafeinaVagasBot](https://t.me/CafeinaVagasBot). 
 
-6. Nosso bot bloqueia palavrões. 🟡
+6. Nosso bot bloqueia palavrões e termos que possam gerar conflitos ou fugir do propósito do grupo. 🟡
 
-7. Imagens e conteúdos graficamente chocantes, seja em gifs ou até mesmo no nick/foto do perfil não são permitidos. 🔴
+7. Imagens, gifs ou perfis com conteúdo impróprio ou perturbador não são permitidos. 🔴
 
-8. Mantenha os créditos caso compartilhe nosso conteúdo. 🔴
+8. Sempre mantenha os créditos ao compartilhar nosso conteúdo. 🔴
 
 ## 📢 Denunciando desrespeito as regras
 
