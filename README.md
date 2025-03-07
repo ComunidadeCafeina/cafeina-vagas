@@ -31,6 +31,7 @@ Você pode ajudar a comunidade compartilhando vagas para iniciantes e conteúdos
 3. Não critique ou questione vagas inclusivas (direcionadas a grupos minoritários em TI). 🔴
 
 4. Antes de chamar alguém no privado, peça permissão. 🔴
+> PS: Denuncie mandando print e enviando a mensagem no [@SAC_CafeinaBot](https://t.me/SAC_CafeinaBot)
 
 ## 📝 Regras de publicação 
 
@@ -49,4 +50,4 @@ Para denunciar, marque **@admin** no post a ser denunciado ou entre em contato
 
 ## ☎️ Contato e parcerias 
 
-Para entrar em contato conosco ou fazer parcerias, fale com [@SAC_CafeinaBot](https://t.me/SAC_CafeinaBot) no Telegram ou envie um e-mail para contato@compiladoras.com.br
+Para entrar em contato conosco ou fazer parcerias, fale com [@SAC_CafeinaBot](https://t.me/SAC_CafeinaBot) no Telegram ou envie um e-mail para contato@compiladoras.com.br (no e-mail demoramos para responder).
